@@ -1,0 +1,1 @@
+- [Intel's Big AI Bet: Gaudi 3 ft. Supermicro -- System Tour, Tested Pytorch & More](https://youtu.be/X2yQAHqPTvw)
